@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    :root{
+        --base: #ffc600;
+        --spacing: 10px;
+        --blur: 10px;
+    }
+}
